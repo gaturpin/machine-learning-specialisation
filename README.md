@@ -1,1 +1,1 @@
-Andrew Ng's machine learining specialisation on Coursera
+Andrew Ng's machine learining specialisation course on Coursera
